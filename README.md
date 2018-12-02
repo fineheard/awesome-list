@@ -37,4 +37,8 @@
 # Doc
 
 * [MDN Web Doc](https://developer.mozilla.org/en-US/)
+* [DevDocs](https://devdocs.io/)
 
+# PostgreSQL
+
+* [Postgres Weekly](https://postgresweekly.com/issues)
