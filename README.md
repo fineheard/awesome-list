@@ -42,3 +42,10 @@
 # PostgreSQL
 
 * [Postgres Weekly](https://postgresweekly.com/issues)
+
+# SQL Server
+
+* [SQL Server](https://www.microsoft.com/en-us/sql-server)
+* [Build Numbers](https://buildnumbers.wordpress.com/sqlserver/)
+* [Microsoft SQL Server Version List](http://sqlserverbuilds.blogspot.com/)
+
