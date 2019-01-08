@@ -38,6 +38,8 @@
 
 * [MDN Web Doc](https://developer.mozilla.org/en-US/)
 * [DevDocs](https://devdocs.io/)
+* [.NET Foundation Gallery](https://dotnet.myget.org/gallery)
+* [MyGet Nuget](https://dotnet.myget.org/F/aspnetcore-dev/api/v3/index.json)
 
 # PostgreSQL
 
